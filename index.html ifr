@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>github Demo</title>
+</head>
+<body>
+    <main>
+        <h1>Iframe Video Display</h1>
+        <p>Below is an example of an iframe embedding a YouTube video:</p>
+        <section>
+        <h2>Example Iframe</h2>
+        <p>This iframe embeds a YouTube video about the history of the internet:</p>
+        <iframe src="https://www.youtube.com/embed/I0_951_MPE0" width="300" height="315" title="Example Iframe"
+            allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        </iframe>
+        </section>
+        <section>
+            <h2>Another Example</h2>
+            <p>Here is another iframe embedding a different YouTube video:</p>
+            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="300" height="315" title="Another Example Iframe"
+                allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
+        </section>
+        <section>
+            <h2>Elchapo</h2>
+            <p>Here is an iframe embedding a video about Elchapo:</p>
+            <iframe src="https://www.youtube.com/embed/3GwjfUFyY6M" width="300" height="315" title="Elchapo Iframe"
+                allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+           
+            </iframe>
+        </section>
+    </main>
+</body>
+</html>
